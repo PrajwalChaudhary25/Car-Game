@@ -8,7 +8,6 @@
 #define SCREEN_WIDTH 90
 #define SCREEN_HEIGHT 26
 #define WIN_WIDTH 70
-
 using namespace std;
 
 class CONSOLE {
